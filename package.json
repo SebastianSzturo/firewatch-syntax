@@ -12,6 +12,6 @@
   "repository": "https://github.com/SebastianSzturo/firewatch-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">= 1.13"
   }
 }
